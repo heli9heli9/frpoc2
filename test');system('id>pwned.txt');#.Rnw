@@ -1,6 +1,0 @@
-\documentclass{article}
-\begin{document}
-\title{Analysis Report}
-\maketitle
-Hello world.
-\end{document}
